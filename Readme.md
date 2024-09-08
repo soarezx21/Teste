@@ -1,2 +1,2 @@
 Atividade de jane, terceira entrega
-Isso é uma alteraçaõ
+Isso é uma alteração
